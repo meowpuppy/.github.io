@@ -1,2 +1,2 @@
-# deeroverflow.github.io
+# .github.io
 meow
